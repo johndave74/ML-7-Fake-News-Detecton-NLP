@@ -1,6 +1,8 @@
 # ML-9-Fake-News-Detecton-NLP
 This project aims to develop a robust fake news detection system using Natural Language Processing (NLP) techniques and machine learning models. By analyzing text data, we can classify news articles as real or fake, helping to mitigate the impact of false information.
 
+![fake1](https://github.com/user-attachments/assets/08f65409-4ded-4833-99eb-515533289560)
+
 # Fake News Detection using NLP
 
 ## Overview
